@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-hello world 
+<head>
+<h> bello world</h>
+<p> papoi </p>
